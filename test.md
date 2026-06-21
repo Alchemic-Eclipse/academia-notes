@@ -1,0 +1,1 @@
+This is a test doc to try and test capabilities of Obsidian git.
